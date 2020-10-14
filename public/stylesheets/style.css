@@ -419,7 +419,7 @@ footer {
 
 @media (max-width: 400px) {
   main {
-    grid-template-rows: 40vh 50vh 90vh 40vh 60vh 40vh 60vh 40vh 40vh 15vh;
+    grid-template-rows: 40vh 50vh 90vh 40vh 60vh 40vh 60vh 40vh 50vh 15vh;
   }
 
   #fill2 {
