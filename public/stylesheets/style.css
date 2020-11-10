@@ -332,6 +332,14 @@ footer {
 
 @media (max-width: 900px) {
 
+  .links a {
+    padding-right: 40px;
+  }
+
+  html {
+    font-size: 15px;
+  }
+
   main {
     display: grid;
     grid-template-rows: 50vh 55vh 130vh 45vh 110vh 35vh 90vh 35vh 90vh 11vh;
@@ -435,6 +443,11 @@ footer {
 }
 
 @media (max-width: 400px) {
+
+  .links a {
+    padding-right: 20px;
+  }
+
   main {
     grid-template-rows: 40vh 70vh 110vh 50vh 80vh 40vh 80vh 40vh 50vh 15vh;
   }
