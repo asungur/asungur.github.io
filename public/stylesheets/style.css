@@ -407,7 +407,7 @@ footer {
 
 @media (max-width: 500px) {
   html {
-    font-size: 14px;
+    font-size: 11px;
   }
 
   .profile {
@@ -445,7 +445,7 @@ footer {
   }
 
   html {
-    font-size: 10px;
+    font-size: 9px;
   }
 
   .profile {
